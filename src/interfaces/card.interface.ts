@@ -3,8 +3,8 @@ export interface ICard {
     id: number,
     nome: string,
     data: string,
-    titulo: string,
-    mensagem: string,
+    Título: string,
+    Notícia: string,
     topico: {
       id: number,
       item: string

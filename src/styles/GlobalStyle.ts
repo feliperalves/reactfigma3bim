@@ -7,6 +7,7 @@ export default createGlobalStyle`
     outline: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+    text-decoration: none;
   }
 `
 export const colors = {

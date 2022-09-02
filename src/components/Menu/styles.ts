@@ -4,9 +4,9 @@ import { colors } from "styles/GlobalStyle"
 export const Cabecalho = styled.header`
   display: flex;
   border-bottom: 0.5rem solid ${colors.secondary};
-  picture svg {
-    height: 6rem;
-    width: 6rem;
+  h1 {
+    color: #FF0000;
+    text-decoration: none;
   }
   nav {
     width: 100%;
