@@ -2,7 +2,7 @@ import React from "react";
 import carrousel from "assets/img/principalimg.png";
 import * as S from "./styles";
 import { CardComponent } from "components";
-import dados from "services/dados";
+import dados from "services/dados"
 
 const Home = () => {
   return (
