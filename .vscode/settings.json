@@ -1,0 +1,7 @@
+{
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.folding": true,
+    "editor.foldingHighlight": true,
+    "editor.foldingStrategy": "auto",
+    "editor.guides.bracketPairs": "active"
+}
