@@ -1,4 +1,3 @@
-
 import { ITopicData } from "interfaces/topic.interface";
 import api from "services/api";
 
